@@ -17,6 +17,11 @@ The following **required** functionality is completed:
 
 <img src="https://imgur.com/a/EnwCsOP.gif"/>
 
+
+https://github.com/user-attachments/assets/02eb4ec3-59f2-4f56-988c-4a92b9eb5e66
+
+
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
